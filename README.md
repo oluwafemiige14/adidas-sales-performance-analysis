@@ -2,7 +2,7 @@
 
 Excel dashboard, leadership deck and recommendations built from **9,648 Adidas sales records (January 2020 to December 2021)**. Capstone project from the BeTechified 4-week Data Analyst training.
 
-![Excel dashboard](assets/12_dashboard_excel_main.png)
+<img width="1798" height="1920" alt="12_dashboard_excel_main" src="https://github.com/user-attachments/assets/d3fd4262-2db0-4190-a237-2b879471fc27" />
 
 ## At a glance
 
@@ -22,7 +22,7 @@ Adidas has strong overall sales, but sales alone do not show where profit is mad
 4. Combined them into a one-page Excel dashboard with KPI cards, charts and slicers
 5. Turned the findings into a 10-slide leadership deck and a recommendations report
 
-![Pivot dashboard with slicers](assets/13_dashboard_excel_slicer_version.png)
+<img width="1798" height="1920" alt="13_dashboard_excel_slicer_version" src="https://github.com/user-attachments/assets/a3e0b006-d130-4c87-87d2-269d32137e41" />
 
 ## Key findings
 
@@ -35,9 +35,10 @@ Adidas has strong overall sales, but sales alone do not show where profit is mad
 | Season | July ($95.5M), August ($92.2M) and December ($85.8M) peak. March is the low ($56.8M) |
 | States | Hawaii and Washington show the thinnest margins (about 26% and 27%) |
 
-![Region margin](assets/19_chart_region_margin.png)
-![Channel sales and margin](assets/17_chart_channel_sales_vs_margin.png)
-![Monthly trend](assets/20_chart_adidas_monthly_trend.png)
+<img width="1500" height="720" alt="20_chart_adidas_monthly_trend" src="https://github.com/user-attachments/assets/0ed82876-a525-43f7-80ab-43d53868b18d" />
+<img width="1350" height="720" alt="19_chart_region_margin" src="https://github.com/user-attachments/assets/d5f2e3c0-ce55-4f56-9252-d1876d7b6d16" />
+<img width="1650" height="720" alt="17_chart_channel_sales_vs_margin" src="https://github.com/user-attachments/assets/a62746a3-40fe-4784-b7ec-4140af7a3823" />
+
 
 ## Limitations
 
@@ -48,7 +49,8 @@ Adidas has strong overall sales, but sales alone do not show where profit is mad
 - Quality checks found 4 rows with zero or negative units and 3,886 rows where price times units does not match recorded sales
 - The file has no currency label; figures are reported in $, as in the project brief
 
-![Data quality checks](assets/14_data_quality_checks.png)
+<img width="1350" height="690" alt="14_data_quality_checks" src="https://github.com/user-attachments/assets/5aa77cc3-2df4-4d17-8874-46052275fc89" />
+
 
 ## How I handled them
 
@@ -66,7 +68,8 @@ Adidas has strong overall sales, but sales alone do not show where profit is mad
 4. **Plan around peaks:** build stock before July and December, and test promotions in March
 5. **Focus partner effort:** deepen joint planning with West Gear and Foot Locker, and grow Sports Direct
 
-![12-month plan](assets/10_slide_roadmap.png)
+<img width="1867" height="1050" alt="10_slide_roadmap" src="https://github.com/user-attachments/assets/1246f588-07a3-4048-ab9a-42fd6c1b25e3" />
+
 
 ## Files
 
