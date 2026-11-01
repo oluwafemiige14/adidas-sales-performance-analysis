@@ -88,6 +88,9 @@ Excel (pivot tables, slicers, charts, formulas), PowerPoint, Word
 
 I am **Femi Ige**, a data analyst who turns messy business and research data into Excel dashboards, clean datasets and plain-English recommendations. I trained through the 4-week Data Analyst programme at BeTechified.
 
+[Adidas_Sales_Performance_Review.pptx](https://github.com/user-attachments/files/34243090/Adidas_Sales_Performance_Review.pptx)
+
+
 - Email: eduwritescholars@outlook.com
 - LinkedIn: https://www.linkedin.com/in/oluwafemiige/
 - Upwork: https://www.upwork.com/freelancers/~015e03cf0fedc8e504
